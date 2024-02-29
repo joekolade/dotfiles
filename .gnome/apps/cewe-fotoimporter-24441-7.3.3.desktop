@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=CEWE Fotoimporter
+Exec="/home/joe/CEWE/CEWE Fotowelt/CEWE Fotoimporter" %u
+Path=/home/joe/CEWE/CEWE Fotowelt
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=cewe-fotoimporter-24441-7.3.3
+Categories=Graphics;
+MimeType=
+OnlyShowIn=Old;

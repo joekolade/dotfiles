@@ -1,0 +1,5 @@
+[user]
+	name = Joe Kolade
+	email = joe@joekola.de
+[core]
+	autocrlf = input

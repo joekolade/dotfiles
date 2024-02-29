@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=CEWE Fotoschau
+Exec="/home/joe/CEWE/CEWE Fotowelt/CEWE Fotoschau" %u
+Path=/home/joe/CEWE/CEWE Fotowelt
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=cewe-fotoschau-24441-7.3.3
+Categories=Graphics;
+MimeType=application/x-cewe-fotoschau-7.3.3
+OnlyShowIn=Old;
